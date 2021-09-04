@@ -1,2 +1,5 @@
 # Examen1-DPS
  Examen DPS
+Se trabajó con expo
+Ejercicio 1 - https://expo.dev/@marvin_tobar/Examen
+Ejercicio 2 - https://expo.dev/@marvin_tobar/ejercicio2-examen
